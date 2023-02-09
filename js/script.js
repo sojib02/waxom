@@ -21,7 +21,7 @@ new VenoBox();
 
 // counter up
 $('.counter').counterUp({
-  delay: 1,
+  delay: 20,
   time: 10000
 });
 
